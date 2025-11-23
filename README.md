@@ -206,10 +206,5 @@ Este projeto é fornecido como está, para fins educacionais e de pesquisa.
 
 ## 👤 Autor
 
-Sistema de Reconhecimento Facial com CNN - Projeto de Visão Computacional Avançada
-
----
-
-**Nota**: Este sistema foi otimizado para datasets pequenos. Para melhores resultados com datasets maiores, considere usar modelos pré-treinados ou transfer learning.
-
-
+Ariel de Afonso
+Aurio Dumbo
